@@ -2,7 +2,12 @@ body {
     background-color: lightblue;
 }
 
-p {
+h1 {
     color: navy;
     margin-left: 20px;
+}
+
+p {
+    color: orange;
+    margin-left: 15px;
 }
