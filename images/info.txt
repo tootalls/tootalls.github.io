@@ -1,8 +1,0 @@
-Where to store most of the images (a lot)
-acceptable files:
-
-png
-
-svg
-
-gif
