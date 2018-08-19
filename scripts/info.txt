@@ -1,0 +1,5 @@
+acceptable files:
+
+php
+json
+js

@@ -1,0 +1,9 @@
+for main logos and animations
+
+acceptable files:
+
+logo: html, css
+
+animation: js
+
+images: png, gif
